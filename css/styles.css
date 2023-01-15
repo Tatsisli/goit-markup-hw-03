@@ -17,6 +17,20 @@ body {
   font-size: 16;
   letter-spacing: 0.02em;
 }
+
+h1, h2, h3, h4, h5, h6, p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+img {
+  display: block;
+}
+
 .link {
   font-style: normal;
   text-decoration: none;
@@ -67,6 +81,24 @@ body {
   font-size: 18px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+}
+
+.section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.portfolio-section {
+padding-top: 96px;
+padding-bottom: 120px;
+}
+
+.container {
+  width: 1158px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 /*---------------------HEADER-------------------------*/
 .header {
