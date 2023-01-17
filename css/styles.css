@@ -315,6 +315,7 @@ img {
   line-height: 1.17;
   text-transform: uppercase;
   color: var(--light);
+  display: block;
   margin-bottom: 16px;
 }
 .footer-slogan {
