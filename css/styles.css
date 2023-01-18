@@ -146,6 +146,10 @@ img {
   padding-top: 24px;
   padding-bottom: 24px;
 }
+
+.current {
+  color: var(--focus-color);
+}
 .contacts {
   display: flex;
 }
